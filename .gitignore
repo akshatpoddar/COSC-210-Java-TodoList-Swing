@@ -1,0 +1,8 @@
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+serviceAccountKey.json
+.DS_Store
